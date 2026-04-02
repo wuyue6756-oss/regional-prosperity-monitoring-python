@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+outputs/figures/*.png
+outputs/figures/*.jpg
+outputs/figures/*.jpeg
+outputs/tables/*.xlsx
+outputs/tables/*.csv
